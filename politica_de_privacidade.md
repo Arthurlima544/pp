@@ -10,7 +10,7 @@ Não coletamos nenhuma informação pessoal sobre você durante o uso do nosso a
 
 ## Uso de Informações
 
-Não utilizamos nenhuma informação pessoal dos usuários para qualquer finalidade.
+O Odontometry pode solicitar permissão para acessar imagens da galeria do seu dispositivo. Ao conceder essa permissão, você nos permite acessar as imagens apenas durante a sessão em que o aplicativo está em uso. Se você fechar e abrir o aplicativo novamente, não teremos mais acesso a essas imagens, a menos que você forneça novamente a permissão.
 
 ## Compartilhamento de Informações
 
